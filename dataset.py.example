@@ -1,0 +1,28 @@
+# File containing dataset paths, and output paths.
+# To get started:
+#   add the path to your datasets in to the "datasets" variable
+#   add the path for your output data to the "output_data" variable
+#   add the relative path (relative to "dataset" variable) for each of the files.
+
+dataset = ""
+output_data = ".../emotion_analysis/"
+
+negate_output_unigrams = output_data + "unigrams/negation_handled/"
+not_negate_output_unigrams = output_data + "unigrams/negation_not_handled/"
+
+negate_output_bigrams = output_data + "bigrams/negation_handled/"
+not_negate_output_bigrams = output_data + "bigrams/negation_not_handled/"
+
+negate_output_trigrams = output_data + "trigrams/negation_handled/"
+not_negate_output_trigrams = output_data + "trigrams/negation_not_handled/"
+
+negate_output_unigrams_bigrams = output_data + "unigrams_bigrams/negation_handled/"
+not_negate_output_unigrams_bigrams = output_data + "unigrams_bigrams/negation_not_handled/"
+
+negate_output_unigrams_bigrams_trigrams = output_data + "unigrams_bigrams_trigrams/negation_handled/"
+not_negate_output_unigrams_bigrams_trigrams = output_data + "unigrams_bigrams_trigrams/negation_not_handled/"
+
+negate_dataset = "negation_handled/labelled_dataset.csv"
+not_negate_dataset = "negation_not_handled/postprocessed_data.csv"
+
+metric_storage_location = output_data + "metrics_storage/"

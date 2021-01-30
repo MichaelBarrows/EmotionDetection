@@ -1,0 +1,110 @@
+"emotion","algorithm","hyperparameter"
+"anger","Linear SVM",1.5
+"anger","Linear SVM",1.8
+"anger","Linear SVM",0.5
+"anger","Random Forest","100, 200"
+"anger","Random Forest","150, 300"
+"anger","Random Forest","200, 400"
+"anger","Random Forest","300, 600"
+"anger","Naive Bayes",0.5
+"anger","Naive Bayes",0.3
+"anger","Naive Bayes",1.5
+"anger","KNN",1
+"anger","KNN",9
+"anger","KNN",11
+"anticipation","Linear SVM",0.3
+"anticipation","Linear SVM",0.5
+"anticipation","Linear SVM",1.5
+"anticipation","Linear SVM",1.8
+"anticipation","Random Forest","100, 200"
+"anticipation","Random Forest","150, 300"
+"anticipation","Random Forest","200, 400"
+"anticipation","Random Forest","300, 600"
+"anticipation","Naive Bayes",0.5
+"anticipation","Naive Bayes",0.3
+"anticipation","Naive Bayes",1.5
+"anticipation","KNN",1
+"anticipation","KNN",9
+"anticipation","KNN",11
+"disgust","Random Forest","100, 200"
+"disgust","Random Forest","150, 300"
+"disgust","Random Forest","200, 400"
+"disgust","Random Forest","300, 600"
+"disgust","Linear SVM",1.5
+"disgust","Linear SVM",1.8
+"disgust","Linear SVM",0.5
+"disgust","Naive Bayes",0.5
+"disgust","Naive Bayes",0.3
+"disgust","Naive Bayes",1.5
+"disgust","KNN",1
+"disgust","KNN",9
+"disgust","KNN",11
+"fear","Linear SVM",0.3
+"fear","Linear SVM",0.5
+"fear","Linear SVM",1.5
+"fear","Linear SVM",1.8
+"fear","Random Forest","100, 200"
+"fear","Random Forest","150, 300"
+"fear","Random Forest","200, 400"
+"fear","Random Forest","300, 600"
+"fear","Naive Bayes",0.5
+"fear","Naive Bayes",0.3
+"fear","Naive Bayes",1.5
+"fear","KNN",1
+"fear","KNN",9
+"fear","KNN",11
+"joy","Linear SVM",0.3
+"joy","Linear SVM",0.5
+"joy","Linear SVM",1.5
+"joy","Linear SVM",1.8
+"joy","Random Forest","100, 200"
+"joy","Random Forest","150, 300"
+"joy","Random Forest","200, 400"
+"joy","Random Forest","300, 600"
+"joy","Naive Bayes",0.3
+"joy","Naive Bayes",0.5
+"joy","Naive Bayes",1.5
+"joy","Naive Bayes",1.8
+"joy","KNN",1
+"joy","KNN",9
+"joy","KNN",11
+"sadness","Linear SVM",1.5
+"sadness","Linear SVM",1.8
+"sadness","Linear SVM",0.5
+"sadness","Random Forest","100, 200"
+"sadness","Random Forest","150, 300"
+"sadness","Random Forest","200, 400"
+"sadness","Random Forest","300, 600"
+"sadness","Naive Bayes",0.5
+"sadness","Naive Bayes",0.3
+"sadness","Naive Bayes",1.5
+"sadness","KNN",1
+"sadness","KNN",9
+"sadness","KNN",11
+"surprise","Linear SVM",0.3
+"surprise","Linear SVM",0.5
+"surprise","Linear SVM",1.5
+"surprise","Linear SVM",1.8
+"surprise","Random Forest","100, 200"
+"surprise","Random Forest","150, 300"
+"surprise","Random Forest","200, 400"
+"surprise","Random Forest","300, 600"
+"surprise","Naive Bayes",0.5
+"surprise","Naive Bayes",0.3
+"surprise","Naive Bayes",1.5
+"surprise","KNN",1
+"surprise","KNN",9
+"surprise","KNN",11
+"trust","Linear SVM",0.5
+"trust","Linear SVM",0.3
+"trust","Linear SVM",1.5
+"trust","Naive Bayes",0.5
+"trust","Naive Bayes",0.3
+"trust","Naive Bayes",1.5
+"trust","Random Forest","100, 200"
+"trust","Random Forest","150, 300"
+"trust","Random Forest","200, 400"
+"trust","Random Forest","300, 600"
+"trust","KNN",1
+"trust","KNN",9
+"trust","KNN",11
