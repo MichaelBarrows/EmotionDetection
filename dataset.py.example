@@ -5,7 +5,7 @@
 #   add the relative path (relative to "dataset" variable) for each of the files.
 
 dataset = ""
-output_data = ".../emotion_analysis/"
+output_data = ".../emotion_detection/"
 
 negate_output_unigrams = output_data + "unigrams/negation_handled/"
 not_negate_output_unigrams = output_data + "unigrams/negation_not_handled/"
